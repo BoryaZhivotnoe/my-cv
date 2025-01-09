@@ -1,0 +1,5 @@
+baseURL = 'https://BoryaZhivotnoe.github.io/my-cv/'
+languageCode = "en-us"
+title = "Азат Багаутдинов - Резюме"
+theme = "almeida-cv"
+
